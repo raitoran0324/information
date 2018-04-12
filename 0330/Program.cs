@@ -109,7 +109,7 @@ namespace _0330
                     }
                 }
 
-                // 辨別天蠍座O型的人
+                // 計算天蠍座O型的人數
                 if (zodiac[i] == "天蠍" && blood[i] == "O")
                 {
                     people++;
@@ -156,7 +156,7 @@ namespace _0330
             {
                 if (zodiac[i] == "天蠍" && blood[i] == "O")
                 {
-                    Console.WriteLine("║  天蠍座O型的人有:" + name[i] + "   ║ ");
+                    Console.WriteLine("║  天蠍座O型的人有:" + name[i] + "  ║ ");
                 }
             }
 
