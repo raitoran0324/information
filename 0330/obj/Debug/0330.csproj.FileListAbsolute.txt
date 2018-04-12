@@ -18,3 +18,6 @@ C:\Users\User\Desktop\0330\0330\obj\Debug\0330.csprojResolveAssemblyReference.ca
 C:\Users\User\Desktop\0330\0330\obj\Debug\0330.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\0330\0330\obj\Debug\0330.exe
 C:\Users\User\Desktop\0330\0330\obj\Debug\0330.pdb
+C:\git\0330\imformation\0330\bin\Debug\0330.exe.config
+C:\git\0330\imformation\0330\obj\Debug\0330.exe
+C:\git\0330\imformation\0330\obj\Debug\0330.pdb
